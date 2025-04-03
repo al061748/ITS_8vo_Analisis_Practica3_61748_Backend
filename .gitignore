@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Entorno
+.env
+
+# Archivos de compilación
+dist/
+build/
+
+# Logs
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración del editor (opcional)
+.vscode/
